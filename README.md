@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lizbeth Santibañez
 
-<!--
-**LizSan7/LizSan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer** | 🎓 Software Engineering Graduate
 
-Here are some ideas to get you started:
+I'm a Software Engineering graduate passionate about building modern web applications. I enjoy developing full-stack solutions, learning new technologies, and creating software that solves real-world problems.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 Open to Software Developer opportunities
+- 🤝 Open to collaborating on interesting software projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- Java
+- JavaScript
+- TypeScript
+- SQL
+- HTML5
+- CSS3
+
+### Frontend
+
+- React
+- Angular
+- Next.js
+- Bootstrap
+
+### Backend
+
+- Spring Boot
+- REST APIs
+- Maven
+- Tomcat
+
+### Databases
+
+- MySQL
+- MariaDB
+
+### Tools
+
+- Git & GitHub
+- Docker
+- IntelliJ IDEA
+- Visual Studio Code
+- Postman
