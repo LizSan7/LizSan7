@@ -20,15 +20,13 @@ I'm a Software Engineering graduate passionate about building modern web applica
 - JavaScript
 - TypeScript
 - SQL
-- HTML5
-- CSS3
 
 ### Frontend
 
 - React
+- React Native
 - Angular
 - Next.js
-- Bootstrap
 
 ### Backend
 
@@ -36,11 +34,6 @@ I'm a Software Engineering graduate passionate about building modern web applica
 - REST APIs
 - Maven
 - Tomcat
-
-### Databases
-
-- MySQL
-- MariaDB
 
 ### Tools
 
